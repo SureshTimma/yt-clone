@@ -2,7 +2,7 @@ import React from "react";
 
 const Navbar = () => {
   return (
-    <div className="flex justify-between items-center fixed top-0 right-0 left-0 h-15 bg-[#0F0F0F] py-2 px-6">
+    <div className="flex justify-between items-center  top-0 right-0 left-0 h-15 bg-[#0F0F0F] py-2 px-6">
       {/* Menu Icon and Youtube Logo */}
       <div className="flex">
         <div className="mr-2 flex items-center">
